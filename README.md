@@ -19,3 +19,7 @@ then log out of mysql and write npm start to get into the database to be able to
 ## New video link
 
 [Screencastify link](<images/employEEtracker copy.webm>)
+
+## Credit 
+
+created by Denise Vasquez and Learning Assistant Salvador 
