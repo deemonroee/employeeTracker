@@ -10,12 +10,12 @@ This project used MySql to create a database that creates and saves data that yo
 
 install your dependencies with npm i
 then installing mysql and inquirer
-log into mysql to check on the database and see if the tables show from seeds and schema file
-then  log out of mysql and write npm start to get into the database 
+log into mysql to check on the database and see if the tables show from seeds and schema file. Use source seeds.sql and source schema.sql to show all databases to be able to acces in terminal 
+then log out of mysql and write npm start to get into the database to be able to see the employee tracker itself. Add or delete as you go !
 
 ## Screenshot
 ![Employee Database](<images/employee database.png>)
 
-## Link to video 
-[Screencastify Employee Database](images/employeeTracker.webm)
+## New video link
+
 
