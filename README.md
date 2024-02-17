@@ -18,4 +18,4 @@ then log out of mysql and write npm start to get into the database to be able to
 
 ## New video link
 
-
+[Screencastify link](<images/employEEtracker copy.webm>)
